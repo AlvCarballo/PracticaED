@@ -1,5 +1,12 @@
 package es.Studium.PracticaED;
+/**
+ * @author alvaro
+ *
+ */
 public class TestBanco {
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		/* Antonio y Beatriz se hacen cliente del banco */
 		Cliente antonio = new Cliente("123456789Z", "Antonio Alonso", "Av. Pueblo Saharaui, s/n");
